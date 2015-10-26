@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brita Sover</string>
+    <string name="introduksjon">Dette er en nyttig app for deg som vil se at brita sover</string>
+    <string name="edit_message">Her kan du skrive tekst om du vil</string>
+    <string name="button_send">Send mann</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
